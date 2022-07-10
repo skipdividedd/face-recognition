@@ -1,0 +1,4 @@
+outs:
+- md5: 4fe3d1b840f503af9aa09ff753d46d6c
+  size: 96351527
+  path: arcface.pth
