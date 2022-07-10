@@ -1,0 +1,4 @@
+outs:
+- md5: 2ec9ff2700787669edcfebde87289fed
+  size: 112012009
+  path: triplet.pth
