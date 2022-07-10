@@ -1,0 +1,4 @@
+outs:
+- md5: dbf22e0e628b29fe237e1e44eef3841e
+  size: 95327209
+  path: resnet.pth
