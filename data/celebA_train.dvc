@@ -1,0 +1,5 @@
+outs:
+- md5: 0407d27c79ab5929aabc0ae08963dc0e.dir
+  size: 168514308
+  nfiles: 23951
+  path: celebA_train
